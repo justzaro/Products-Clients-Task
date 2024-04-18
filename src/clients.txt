@@ -1,0 +1,6 @@
+Clients
+1;ABC Distribution;0.05;0.0;0.02
+2;DEF Foods;0.04;0.01;0.02
+3;GHI Trade;0.03;0.01;0.03
+4;JKL Kiosks;0.02;0.03;0.05
+5;MNO Vending;0.0;0.05;0.07

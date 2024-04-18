@@ -1,0 +1,5 @@
+Products
+1;Danish Muffin;0.52;true;0.80;false;0.0
+2;Granny’s Cup Cake;0.38;true;1.20;true;0.30
+3;Frenchy’s Croissant;0.41;false;0.90;false;0.0
+4;Crispy Chips;0.60;false;1.00;true;0.66
